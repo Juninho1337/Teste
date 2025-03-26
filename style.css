@@ -1,0 +1,60 @@
+body {
+    background-image: url(assets/imagedefundo.jpeg);
+    background-repeat:repeat-y;
+    color: rgb(85, 105, 24);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.title_1 {
+    color: rgb(104, 154, 187);
+}
+
+.title_2 {
+    color:rgb(54, 73, 95);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#ordered_list {
+    color:rgb(114, 0, 0);
+}
+
+#ordered_list2 {
+    color:rgb(108, 83, 255);
+}
+
+.botaodaora {
+    width: 120px;
+    height: 120px;
+    border-radius: 1%;
+    border-color:rgb(0, 132, 255);
+    border-width: 20px
+}
+
+.divisao {
+    width: 600px;
+    height: 150px;
+    background-color: rgb(95, 121, 160);
+    color:white;
+    border-radius: 5px;
+    display: block;
+    margin: 30px;
+} 
+
+.div_interna1 {
+    background-color: rgb(42, 116, 165);
+    width: 200px;
+    height: 50px;
+    display: inline;
+    margin: 50px;
+    padding: 20px;
+}
+
+.div_interna2 {
+    background-color: rgb(106, 158, 207);
+    width: 200px;
+    height: 50px;
+    display: inline;
+    margin: 50px;
+    padding: 20px;
+}
